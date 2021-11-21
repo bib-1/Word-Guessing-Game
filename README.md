@@ -5,5 +5,5 @@ This is console-based game which I've built in my first semester. Your instructi
 You can fork this repository and try it out.
 
 ## Arduino
-You can simulate and play clicking the link.
+You can simulate and play clicking this link:
 https://www.tinkercad.com/embed/kAs1w9UVmNY?editbtn=1
