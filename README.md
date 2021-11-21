@@ -1,4 +1,9 @@
 # Word-Guessing-Game
-This is console-based game which I've built in my first semester.
-The given link is the arduino version of this game. You can simulate and play clicking the link.
-<iframe width="725" height="453" src="https://www.tinkercad.com/embed/kAs1w9UVmNY?editbtn=1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+This is console-based game which I've built in my first semester. Your instructions would be displayed on the output screen and you play by entering the answers from console.  I have build this game using two technologies:
+
+## Java
+You can fork this repository and try it out.
+
+## Arduino
+You can simulate and play clicking the link.
+https://www.tinkercad.com/embed/kAs1w9UVmNY?editbtn=1
