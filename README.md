@@ -1,7 +1,12 @@
 # Word-Guessing-Game
 This is console-based game which I've built in my first semester. Your instructions would be displayed on the output screen and you play by entering the answers from console.  I have build this game using two technologies:
 
-## Java
+
+## 1. Arduino
+You can simulate and play clicking this link:
+https://www.tinkercad.com/embed/kAs1w9UVmNY?editbtn=1
+
+## 2. Java
 You can clone this repository and try it out.
 
 ### Enter Your Name:
@@ -23,6 +28,3 @@ Moves to the next question
 ![image](https://user-images.githubusercontent.com/65732044/166122872-94600fc6-3374-4ec7-b9ee-4b792279b9d4.png)
 Shows all the result and asks if the player wants to play again
 
-## Arduino
-You can simulate and play clicking this link:
-https://www.tinkercad.com/embed/kAs1w9UVmNY?editbtn=1
